@@ -1,2 +1,2 @@
-# CPF-Formation-excel-STD-des-Fondamentaux-l-op-rationnel
+# CPF-Formation-Excel-STD-Fondamentaux-a-operationnel
 CPF - Formation EXCEL STD - Des fondamentaux à l'opérationnel 
